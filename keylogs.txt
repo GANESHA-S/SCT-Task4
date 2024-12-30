@@ -1,0 +1,4 @@
+
+
+--- New Session Started ---
+hello[Key.enter]good[Key.space]morning[Key.enter][Key.esc]
